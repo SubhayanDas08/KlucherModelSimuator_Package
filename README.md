@@ -2,6 +2,8 @@
 
 This is a simulation package for klucher model built on Python to calculate solar radiations on a tilted surface at a particular place for a whole year.
 
+Link: https://pypi.org/project/KlucherModelSDas/1.0.1/
+
 # Installation
 
 Run the following  to install :
@@ -20,8 +22,6 @@ from KlucherModelSDas import klucher
 #### Generate Data for Any Year:
 
 klucher(*year*, *latitude_of_the_place*, *tilt_angle*, *azimuth_angle*, *interval_of_time_in_minutes*)`
-
-
 
 ## Customizing Klucher Model
 
